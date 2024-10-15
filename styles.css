@@ -305,6 +305,9 @@ header a {
     h1 {
         font-size: 30px;
     }
+    h2 {
+        font-size: 24px;
+    }
     .carousel .list .item .content {
         padding-right: 0;
     }
